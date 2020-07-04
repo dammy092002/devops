@@ -1,1 +1,8 @@
-<paste log output from Kubernetes-mediated prediction, here>
+(.devops) [osboxes@udacityk8s project-ml-microservice-kubernetes]$ sudo ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "devops-deployment" already exists
+NAME                READY   STATUS    RESTARTS   AGE
+devops-deployment   1/1     Running   0          15s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
