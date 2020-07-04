@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI] https://circleci.com/gh/dammy092002/devops.svg?style=svg
 
 ## Project Overview
 
