@@ -1,4 +1,4 @@
-https://circleci.com/gh/dammy092002/devops.svg?style=svg
+[![CircleCI](https://circleci.com/gh/dammy092002/devops.svg?style=svg)](https://circleci.com/gh/dammy092002/devops)
 
 ## Project Overview
 
